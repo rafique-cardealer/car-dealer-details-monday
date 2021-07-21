@@ -5,13 +5,48 @@ body {
   }
 
 
-
 #navbar-example2 a{
   color: #2e3192;
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.btn-primary{
+  text-align: center;
+  background-color: #d51317;
+  vertical-align: middle;
+  display: flex;
 
+}
+
+.btn-primary2{
+  text-align: center;
+  background-color: #d51317;
+  vertical-align: middle;
+  display: flex;
+}
+
+.btn-primary2 {
+  text-align: center;
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+  display: flex;
+}
+
+.btn{
+text-align: center;  
+vertical-align: middle; 
+}
+
+.button-link{
+background-color: red;
+box-shadow: 4px 4px 4px #999;
+font-weight: bold;
+font-size: 1.5em;
+text-align: center;
+vertical-align: middle;
+color: white;
+}
 
 #footer {
 clear: both; 
@@ -28,8 +63,6 @@ margin: 0;
 color: #ffffff;
 text-align: left;
 font-size: 18px;
-
-
 font-family: "poppins", sans-serif;
 
 }
@@ -71,19 +104,6 @@ text-align: left;
   color: #565454;
 }
 
-.btn-primary{
-  text-align: center;
-  background-color: #d51317;
-  vertical-align: middle;
-  display: flex;
-
-}
-
-.btn{
-text-align: center;  
-vertical-align: middle; 
-}
-
 .iucd-item .iucd-item-img .iucd-item-img-count i {
 	font-size: 20px;
 	vertical-align: top;
@@ -112,24 +132,8 @@ vertical-align: middle;
     right: 3px; 
 }
 
-.item-card .item-card-head .item-card-img-count {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  background-color: #8e9bab;
-  color: #ffffff;
-  font-size: 14px;
-  padding: 2px 5px;
-}
 
-.item-card {
-  width: 255px;
-  background-color: #ffffff;
-  overflow: hidden;
--webkit-box-shadow: 0px 5px 57px 0px rgb(12 36 56 / 8%);
-  box-shadow: 0px 5px 57px 0px rgb(12 36 56 / 8%);
-  margin: 0 auto 30px auto;
-}
+
 
 *, ::after, ::before {
   box-sizing: border-box;
@@ -194,6 +198,8 @@ color: #565454;
 font-size: 10px;  
 }
 
+
+
 .img-overlay-wrap {
   position: relative;
   display: inline-block; /* <= shrinks container to image size */
@@ -212,20 +218,37 @@ font-size: 10px;
   position: relative;
   fill: #ffffff;
   background-color: #565454;
+  background-size: 50px 10px;
   border-width: 10px;
   top: -185px;
   bottom: 200px;
   left: 15px;
   right: 0px; 
 
+}
 
+.bi-camera-icon {
+  position: relative;
+  fill: #ffffff;
+  background-color: #565454;
+  background-size: contain;
+  border-width: 10px;
 }
 
 .location-icon {
   width: 10px;
   height: 10px;
   position: relative;
-  top: 70px;
+  top: 80px;
+  margin-right: 10px;
+  fill: #2e3192;
+}
+
+.person-fill { 
+  width: 10px;
+  height: 10px;
+  position: relative;
+  top: 100px;
   margin-right: 10px;
   fill: #2e3192;
 }
