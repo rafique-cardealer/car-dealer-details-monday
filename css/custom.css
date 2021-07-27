@@ -1,0 +1,247 @@
+body {
+background-color: #F4F4F9;
+font-family: Arial, Helvetica, sans-serif;
+  }
+
+.main-header {
+  
+  width: 100%;
+  background-color: #ffffff;
+  min-height: 70px;
+  
+}
+
+.icons-navbar-left{
+  float: left;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.icons-navbar-left img{
+  height: 30px;
+  width: 30px;
+  fill: #565454; 
+  
+}
+
+.icons-navbar-right{
+  float: right; 
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+.icons-navbar-right img{
+  height: 30px;
+  width: 30px;
+  fill: #565454; 
+}
+
+.icons-navbar-right-svg {
+  float: right; 
+  height: 30px;
+  width: 30px;
+  fill: red; 
+}
+
+
+.logo-navbar{
+  float: center;
+  margin-top: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
+
+.icons{
+  align-content: center;
+  fill: #565454;
+ }
+
+
+
+.icons-left{
+float: left;
+}
+
+.icons-left img{
+  width: 30px;
+  height: 30px; 
+  fill: #565454;
+  } 
+
+.icons-right{
+  float: right;
+}
+
+.icons-right img{
+height: 30px; 
+width: 30px; 
+fill: #565454;
+
+}
+
+.icons-navbar{
+  color:#565454;
+  height: 30px; 
+  width: 30px; 
+  padding-top: 15px;
+  
+}
+
+.icons-navbar img{
+  color:#565454;
+  height: 30px; 
+  width: 30px; 
+  
+}
+
+.vehicle_detail_image{
+margin-bottom: 20px;
+}
+  
+.btn-primary{
+justify-content: center;
+text-align: center;
+background-color: #d51317;
+vertical-align: middle;
+display: flex;
+
+}
+
+h1{
+font-size: 28px;
+font-family: "poppins", sans-serif;
+color: #2f2e2e;
+font-weight: bold 700;
+
+}
+
+h2{
+font-size: 26px;
+color: #2e3192;
+font-family: "poppins", sans-serif;
+font-weight: semi bold;
+}
+
+p{
+font-size: 16px; 
+color:#565454;
+font-family: poppins; 
+}
+
+
+
+h2{ 
+color: #2e3192;
+text-align: left;
+font-size: 26px;
+font-family: "poppins", sans-serif;
+font-weight: bold 600;
+
+}
+
+.h2-alt{
+  font-size:26px;
+  color: #474bc5;
+  font-family: "poppins", sans-serif;
+  font-weight: semi bold 600;
+}
+
+.p1-alt{
+  font-size: 14px;
+  font-family: poppins;
+  font-weight: semi bold 600;
+  color: #565454;
+  font-weight: bold;  
+}
+  
+.btn-primary{
+  justify-content: center;
+  text-align: center;
+  background-color: #F4F4F9;
+  vertical-align: middle;
+  display: flex;
+  font-family: nunito;
+  font-weight: bold; 
+  font-size: 20px;
+  color: #2f2e2e; 
+  border-radius: 50px; 
+  }
+
+  .btn-primary:hover {
+background-color: #2e3192;
+  }
+
+  .btn-primary2{
+    justify-content: center;
+    text-align: center;
+    background-color: #F4F4F9;
+    vertical-align: middle;
+    display: flex;
+    font-family: nunito;
+    font-weight: bold; 
+    font-size: 20px;
+    color: #2f2e2e; 
+    border-radius: 50px; 
+    }
+  
+    .btn-primary2:hover {
+  background-color: #1dac7a;
+  color:#ffffff;
+    }
+
+    .btn-primary3{
+      justify-content: center;
+      text-align: center;
+      background-color: #F4F4F9;
+      vertical-align: middle;
+      display: flex;
+      font-family: nunito;
+      font-weight: bold; 
+      font-size: 20px;
+      color: #2f2e2e; 
+      border-radius: 50px; 
+      }
+    
+      .btn-primary3:hover {
+    background-color: #d51317;
+    color:#ffffff;
+      }
+
+      .btn-primary4{
+        justify-content: center;
+        text-align: center;
+        background-color: #F4F4F9;
+        vertical-align: middle;
+        display: flex;
+        font-family: nunito;
+        font-weight: bold; 
+        font-size: 20px;
+        color: #2f2e2e; 
+        border-radius: 50px; 
+        }
+      
+        .btn-primary4:hover {
+      background-color: #fa9b05;
+      color:#ffffff;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
