@@ -3,6 +3,87 @@ background-color: #F4F4F9;
 font-family: Arial, Helvetica, sans-serif;
   }
 
+.main-header {
+  
+  width: 100%;
+  background-color: #ffffff;
+  
+}
+
+
+.logo-area{
+   align-content: center;
+}
+
+.logo-area img{
+  
+  align-content: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  float: center;
+ 
+}
+
+.icons{
+  align-content: center;
+  fill: #565454;
+ 
+
+}
+
+.col-sm-4-right{
+  float: right;
+}
+
+.icons-left{
+float: left;
+}
+
+.icons-left img{
+  float: left;
+  width: 30px;
+  height: 30px; 
+  } 
+
+.icons-right{
+  float: right;
+}
+
+.icons-right img{
+align-items: center;
+height: 30px; 
+width: 30px; 
+fill: #565454;
+
+}
+
+.icons-navbar{
+  color:#565454;
+  height: 30px; 
+  width: 30px; 
+  padding-top: 15px;
+  
+}
+
+.icons-navbar img{
+  color:#565454;
+  height: 30px; 
+  width: 30px; 
+  
+}
+
+.col-12-car-image{
+margin-bottom: 20px;
+padding-bottom: 20px;
+}
+
+.menu-3{
+  float: right;
+}
+
+.vehicle_detail_image{
+margin-bottom: 20px;
+}
   
 .btn-primary{
 justify-content: center;
@@ -13,6 +94,27 @@ display: flex;
 
 }
 
+h1{
+font-size: 28px;
+font-family: 'Courier New', Courier, monospace;
+color: #2f2e2e;
+font-weight: bold 700;
+
+}
+
+h2{
+font-size: 26px;
+color: #2e3192;
+font-family: 'Courier New', Courier, monospace;
+font-weight: semi bold;
+}
+
+p1{
+font-size: 16px; 
+color:#565454;
+font-family: poppins; 
+  
+}
 
 .btn{
 text-align: center;  
@@ -20,8 +122,6 @@ vertical-align: middle;
 justify-content: center;
 
 }
-
-
 
 h1, h2, h3, h4 { 
 color: #ffffff;
@@ -33,94 +133,6 @@ font-family: "poppins", sans-serif;
 
 
 
-
-p {
-font-family: verdana;
-color: #565454;
-text-align: left;
-}
-
-.item-card-price{
-  text-align: right;
-}
-
-
-
-.location{
-  text-align: left;
-  font-size: 10px;
-  color: #565454;
-}
-
-
-.paginationn {
-float: right;
-align-items: right;
-}
-
-.card{
-margin-top: 15px;
-margin-bottom: 15px;
- 
-
-}
-
-.row-cars {
-  padding-left: 15px;
-}
-
-.card-image-svg{
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  background-color: #565454;
-  border-radius: 5px;
-  color: #ffffff;
-  font-size: 12px;
-  padding: 2px 5px;
-  margin-right: 3px;
-}
-
-.card-image-logo{
-  background-color: #ffffff;
-  float: right;
-  position: relative;
-  bottom: 20px;
-  width: 40px; 
-  height: 40px;
-  border-radius: 50px; 
-
-}
-
-.bottom-row{
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-bottom: 20px;
-}
-
-.row-logo{
-  padding-left: 15px;
-}
-
-.card-image-logo img {
-  padding: 8px;
-  width: 40px;
-  height: 40px; 
-}
-
-img {
-vertical-align: middle;
- 
-}
-
-.bi, .bi-camera {
-  margin-bottom: 3px;
-}
-
-.inner-banner-wrapper{
-background-color: #2e3192;
-padding: 30px 0; ;
-}
 
 
 
